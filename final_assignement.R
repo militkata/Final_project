@@ -1,4 +1,4 @@
-setwd ("D://R_course_PhD")
+setwd ("D://R_course_PhD/Final_project_Horvath_Kata")
 
 
 library(tidyverse)
